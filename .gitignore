@@ -1,0 +1,29 @@
+# Игнорируем папку виртуального окружения
+.venv/
+
+# Кэшированные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Папки и файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Файлы настроек для PyCharm
+*.iml
+
+# Кэширование pip
+*.pyo
+*.pyd
+*.db
+
+# Файлы настроек системы
+.DS_Store
+Thumbs.db
