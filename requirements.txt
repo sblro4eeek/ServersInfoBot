@@ -1,6 +1,5 @@
 aiogram
 python-dotenv
 sqlalchemy
-aiosqlite
 asyncpg
 httpx
